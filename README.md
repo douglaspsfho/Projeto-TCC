@@ -17,3 +17,5 @@ rters/
 RITTAL – THE SYSTEM, Catálogo 36. Super Control Automação, 2021. Disponível em: https://supercontrolautomacao.com.br/wp-content/uploads/2021/07/Rittal_Catalogo_36_5_5420.pdf
 
 WEG, W22 IR3 Premium 1 cv 4P 80 3F 220/380 V 60 Hz IC411 - TFVE - B14D. Disponível em: https://www.weg.net/catalog/weg/BR/pt/Motores-El%C3%A9tricos/Trif%C3%A1sico---Baixa-Tens%C3%A3o/Uso-Geral/W22/W22-/W22-IR3-Premium-1-cv-4P-80-3F-220-380-V-60-Hz-IC411---TFVE---B14D/p/11951129
+
+SIEMENS. Especificações Técnicas - Março/23. Versão: FEV/23. Disponível em: https://assets.new.siemens.com/siemens/assets/api/uuid:57bea059-9c4f-43bd-a561-7ae6701fcb22/Fichas-tecnicas-COMPLETAS-FINAL-MAR23-net.pdf
